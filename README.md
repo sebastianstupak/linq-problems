@@ -3,6 +3,8 @@ Showcase of common LINQ problems
 
 ## LINQ All vs List TrueForAll
 
+[Medium article](https://medium.com/@sebastian.stupak/stop-using-this-linq-method-37173d0bfe3d)
+
 ```
 BenchmarkDotNet v0.13.11, Windows 10 (10.0.19045.3803/22H2/2022Update)
 AMD Ryzen 5 5600U with Radeon Graphics, 1 CPU, 12 logical and 6 physical cores
